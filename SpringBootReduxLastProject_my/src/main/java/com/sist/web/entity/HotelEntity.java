@@ -39,5 +39,8 @@ public class HotelEntity {
     private int sports;
 
     private String refund_regulation;
+    private String title;
+    private String address;
     private String image;
+    private String overview;
 }

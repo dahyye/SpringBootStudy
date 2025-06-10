@@ -1,3 +1,4 @@
+
 package com.sist.web.entity;
 
 public interface RecipeVO {
@@ -7,4 +8,5 @@ public interface RecipeVO {
 	public int getHit();
 	public int getLikecount();
 	public int getNum();
+	public String getTitle();
 }
